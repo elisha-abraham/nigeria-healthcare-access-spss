@@ -1,0 +1,8 @@
+﻿Command_,Subtype_,Label_,Var1,Var2,N
+CSLogistic,SampleDesignInformation,Sample Design Information,Unweighted Cases,Valid,1573
+CSLogistic,SampleDesignInformation,Sample Design Information,Unweighted Cases,Invalid,27
+CSLogistic,SampleDesignInformation,Sample Design Information,Unweighted Cases,Total,1600
+CSLogistic,SampleDesignInformation,Sample Design Information,Population Size, ,1578.06862689889
+CSLogistic,SampleDesignInformation,Sample Design Information,Stage 1,Strata,12
+CSLogistic,SampleDesignInformation,Sample Design Information,Stage 1,Units,200
+CSLogistic,SampleDesignInformation,Sample Design Information,Sampling Design Degrees of Freedom, ,188

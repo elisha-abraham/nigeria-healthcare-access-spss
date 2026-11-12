@@ -1,0 +1,25 @@
+﻿Command_,Subtype_,Label_,Var1,Var2,Estimate,StandardError,Lower,Upper,DesignEffect,UnweightedCount
+CSTabulate,Oneway Table,Went without medicines or medical treatment several times or more in the past year,% of Total,No,42.4781682638278,1.68530460600722,39.1923264328267,45.8318561207509,1.85171482252953,665
+CSTabulate,Oneway Table,Went without medicines or medical treatment several times or more in the past year,% of Total,Yes,57.5218317361718,1.68530460600722,54.1681438792488,60.807673567173,1.85171482252953,929
+CSTabulate,Oneway Table,Went without medicines or medical treatment several times or more in the past year,% of Total,Total,100,0,100,100, ,1594
+CSTabulate,Oneway Table,Q7c. How often gone without medical care,% of Total,Never,18.227938154553,1.30501472842027,15.79323671766,20.9446188823015,1.82013712211341,288
+CSTabulate,Oneway Table,Q7c. How often gone without medical care,% of Total,Just once or twice,24.2502301092748,1.29290481312225,21.791612874375,26.890861366674,1.4496117426688,377
+CSTabulate,Oneway Table,Q7c. How often gone without medical care,% of Total,Several times,31.1365861877505,1.45330764842435,28.3442851263584,34.0731633521173,1.56917489315828,466
+CSTabulate,Oneway Table,Q7c. How often gone without medical care,% of Total,Many times,18.5271705053263,1.24839870452678,16.1897065884926,21.1170836213734,1.6447522788231,329
+CSTabulate,Oneway Table,Q7c. How often gone without medical care,% of Total,Always,7.85807504309507,.828698816744442,6.37112057699797,9.65627803035778,1.51090013638644,134
+CSTabulate,Oneway Table,Q7c. How often gone without medical care,% of Total,Total,100,0,100,100, ,1594
+CSTabulate,Oneway Table,Worries a lot about being unable to get or afford medical care,% of Total,No,53.218737603243,1.75735086496156,49.7421107550709,56.6643896477657,1.97976362441845,854
+CSTabulate,Oneway Table,Worries a lot about being unable to get or afford medical care,% of Total,Yes,46.7812623967567,1.75735086496156,43.3356103522341,50.2578892449289,1.97976362441845,743
+CSTabulate,Oneway Table,Worries a lot about being unable to get or afford medical care,% of Total,Total,100,0,100,100, ,1597
+CSTabulate,Oneway Table,"Agrees government should ensure health care for all, even if taxes rise",% of Total,No,36.1477340083231,1.77736395761234,32.7203035218225,39.7222180201025,2.1830115499061,617
+CSTabulate,Oneway Table,"Agrees government should ensure health care for all, even if taxes rise",% of Total,Yes,63.8522659916767,1.77736395761234,60.2777819798973,67.2796964781773,2.18301154990609,979
+CSTabulate,Oneway Table,"Agrees government should ensure health care for all, even if taxes rise",% of Total,Total,100,0,100,100, ,1596
+CSTabulate,Oneway Table,Has medical aid cover,% of Total,No cover,92.9340096096862,1.03980958432575,90.5871274544949,94.7297934634265,2.61463104152293,1487
+CSTabulate,Oneway Table,Has medical aid cover,% of Total,Has cover,7.06599039031367,1.03980958432575,5.27020653657343,9.41287254550501,2.61463104152297,102
+CSTabulate,Oneway Table,Has medical aid cover,% of Total,Total,100,0,100,100, ,1589
+CSTabulate,Oneway Table,Had contact with a public clinic or hospital in the past year,% of Total,No,65.2631438340987,1.48026858042947,62.2887076863795,68.1230366279378,1.54550710124334,1018
+CSTabulate,Oneway Table,Had contact with a public clinic or hospital in the past year,% of Total,Yes,34.736856165901,1.48026858042947,31.876963372062,37.7112923136202,1.54550710124335,582
+CSTabulate,Oneway Table,Had contact with a public clinic or hospital in the past year,% of Total,Total,100,0,100,100, ,1600
+CSTabulate,Oneway Table,Health clinic in the enumeration area,% of Total,No clinic in the area,62.9987929677864,3.49266001669743,55.8874265963905,69.5875898210192,8.36783231207893,992
+CSTabulate,Oneway Table,Health clinic in the enumeration area,% of Total,Clinic in the area,37.0012070322133,3.49266001669743,30.4124101789806,44.1125734036092,8.36783231207896,608
+CSTabulate,Oneway Table,Health clinic in the enumeration area,% of Total,Total,100,0,100,100, ,1600

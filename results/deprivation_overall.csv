@@ -1,0 +1,3 @@
+﻿Command_,Subtype_,Label_,Var1,Var2,Estimate,StandardError,Lower,Upper,DesignEffect,UnweightedCount
+CSDescriptives,Univariate Statistics,Univariate Statistics,Mean,"Deprivation index: food, water, cooking fuel, cash income (0 never to 4 always)",1.8406730715454,.0323385603706159,1.77687999997698,1.90446614311383,2.34607180478848,1590
+CSDescriptives,Univariate Statistics,Univariate Statistics,Mean,"Lived Poverty Index, five items (0 to 4)",1.81872411001358,.0328032419846042,1.75401437836141,1.88343384166575,2.38760850318475,1585

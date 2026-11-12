@@ -1,0 +1,85 @@
+﻿Command_,Subtype_,Label_,Var1,Var2,Var3,Var4,No,Yes,Total
+CSTabulate,Twoway Table,Deprivation level * Found it difficult or very difficult to get the care needed,Low (0 to 1),% within Deprivation level,Estimate, ,63.7010201157996,36.2989798842004,100
+CSTabulate,Twoway Table,Deprivation level * Found it difficult or very difficult to get the care needed,Low (0 to 1),% within Deprivation level,Standard Error, ,5.92864181525441,5.92864181525441,0
+CSTabulate,Twoway Table,Deprivation level * Found it difficult or very difficult to get the care needed,Low (0 to 1),% within Deprivation level,95% Confidence Interval,Lower,51.4152327437519,25.5746031969176,100
+CSTabulate,Twoway Table,Deprivation level * Found it difficult or very difficult to get the care needed,Low (0 to 1),% within Deprivation level,95% Confidence Interval,Upper,74.4253968030824,48.5847672562481,100
+CSTabulate,Twoway Table,Deprivation level * Found it difficult or very difficult to get the care needed,Low (0 to 1),% within Deprivation level,Design Effect, ,1.30554529840567,1.30554529840567, 
+CSTabulate,Twoway Table,Deprivation level * Found it difficult or very difficult to get the care needed,Low (0 to 1),% within Deprivation level,Unweighted Count, ,53,27,80
+CSTabulate,Twoway Table,Deprivation level * Found it difficult or very difficult to get the care needed,Moderate (above 1 to 2),% within Deprivation level,Estimate, ,50.5393576693549,49.4606423306452,100
+CSTabulate,Twoway Table,Deprivation level * Found it difficult or very difficult to get the care needed,Moderate (above 1 to 2),% within Deprivation level,Standard Error, ,4.44295208976991,4.44295208976991,0
+CSTabulate,Twoway Table,Deprivation level * Found it difficult or very difficult to get the care needed,Moderate (above 1 to 2),% within Deprivation level,95% Confidence Interval,Lower,41.847337531592,40.8011034533627,100
+CSTabulate,Twoway Table,Deprivation level * Found it difficult or very difficult to get the care needed,Moderate (above 1 to 2),% within Deprivation level,95% Confidence Interval,Upper,59.1988965466374,58.152662468408,100
+CSTabulate,Twoway Table,Deprivation level * Found it difficult or very difficult to get the care needed,Moderate (above 1 to 2),% within Deprivation level,Design Effect, ,1.69656165768497,1.69656165768497, 
+CSTabulate,Twoway Table,Deprivation level * Found it difficult or very difficult to get the care needed,Moderate (above 1 to 2),% within Deprivation level,Unweighted Count, ,116,111,227
+CSTabulate,Twoway Table,Deprivation level * Found it difficult or very difficult to get the care needed,High (above 2),% within Deprivation level,Estimate, ,36.0052924813085,63.9947075186915,100
+CSTabulate,Twoway Table,Deprivation level * Found it difficult or very difficult to get the care needed,High (above 2),% within Deprivation level,Standard Error, ,3.48145307788556,3.48145307788556,0
+CSTabulate,Twoway Table,Deprivation level * Found it difficult or very difficult to get the care needed,High (above 2),% within Deprivation level,95% Confidence Interval,Lower,29.4590142585335,56.8828960868122,100
+CSTabulate,Twoway Table,Deprivation level * Found it difficult or very difficult to get the care needed,High (above 2),% within Deprivation level,95% Confidence Interval,Upper,43.1171039131878,70.5409857414665,100
+CSTabulate,Twoway Table,Deprivation level * Found it difficult or very difficult to get the care needed,High (above 2),% within Deprivation level,Design Effect, ,1.45854321309052,1.45854321309052, 
+CSTabulate,Twoway Table,Deprivation level * Found it difficult or very difficult to get the care needed,High (above 2),% within Deprivation level,Unweighted Count, ,93,179,272
+CSTabulate,Twoway Table,Deprivation level * Found it difficult or very difficult to get the care needed,Total,% within Deprivation level,Estimate, ,45.5229026696478,54.4770973303522,100
+CSTabulate,Twoway Table,Deprivation level * Found it difficult or very difficult to get the care needed,Total,% within Deprivation level,Standard Error, ,2.78701078071862,2.78701078071862,0
+CSTabulate,Twoway Table,Deprivation level * Found it difficult or very difficult to get the care needed,Total,% within Deprivation level,95% Confidence Interval,Lower,40.1010711416749,48.9470075970545,100
+CSTabulate,Twoway Table,Deprivation level * Found it difficult or very difficult to get the care needed,Total,% within Deprivation level,95% Confidence Interval,Upper,51.0529924029455,59.8989288583251,100
+CSTabulate,Twoway Table,Deprivation level * Found it difficult or very difficult to get the care needed,Total,% within Deprivation level,Design Effect, ,1.81034451423227,1.81034451423227, 
+CSTabulate,Twoway Table,Deprivation level * Found it difficult or very difficult to get the care needed,Total,% within Deprivation level,Unweighted Count, ,262,317,579
+CSTabulate,Twoway Table,Rural enumeration area * Found it difficult or very difficult to get the care needed,Urban,% within Rural enumeration area,Estimate, ,45.5436072132954,54.4563927867045,100
+CSTabulate,Twoway Table,Rural enumeration area * Found it difficult or very difficult to get the care needed,Urban,% within Rural enumeration area,Standard Error, ,4.58745114741222,4.58745114741222,0
+CSTabulate,Twoway Table,Rural enumeration area * Found it difficult or very difficult to get the care needed,Urban,% within Rural enumeration area,95% Confidence Interval,Lower,36.7348613215054,45.3596846807976,100
+CSTabulate,Twoway Table,Rural enumeration area * Found it difficult or very difficult to get the care needed,Urban,% within Rural enumeration area,95% Confidence Interval,Upper,54.6403153192023,63.2651386784946,100
+CSTabulate,Twoway Table,Rural enumeration area * Found it difficult or very difficult to get the care needed,Urban,% within Rural enumeration area,Design Effect, ,1.94288498552215,1.94288498552215, 
+CSTabulate,Twoway Table,Rural enumeration area * Found it difficult or very difficult to get the care needed,Urban,% within Rural enumeration area,Unweighted Count, ,105,132,237
+CSTabulate,Twoway Table,Rural enumeration area * Found it difficult or very difficult to get the care needed,Rural,% within Rural enumeration area,Estimate, ,45.5278843130277,54.4721156869723,100
+CSTabulate,Twoway Table,Rural enumeration area * Found it difficult or very difficult to get the care needed,Rural,% within Rural enumeration area,Standard Error, ,3.46483435151278,3.46483435151278,0
+CSTabulate,Twoway Table,Rural enumeration area * Found it difficult or very difficult to get the care needed,Rural,% within Rural enumeration area,95% Confidence Interval,Lower,38.8180531914577,47.5958845473536,100
+CSTabulate,Twoway Table,Rural enumeration area * Found it difficult or very difficult to get the care needed,Rural,% within Rural enumeration area,95% Confidence Interval,Upper,52.4041154526465,61.1819468085424,100
+CSTabulate,Twoway Table,Rural enumeration area * Found it difficult or very difficult to get the care needed,Rural,% within Rural enumeration area,Design Effect, ,1.6992459209554,1.6992459209554, 
+CSTabulate,Twoway Table,Rural enumeration area * Found it difficult or very difficult to get the care needed,Rural,% within Rural enumeration area,Unweighted Count, ,158,186,344
+CSTabulate,Twoway Table,Rural enumeration area * Found it difficult or very difficult to get the care needed,Total,% within Rural enumeration area,Estimate, ,45.5340913616696,54.4659086383304,100
+CSTabulate,Twoway Table,Rural enumeration area * Found it difficult or very difficult to get the care needed,Total,% within Rural enumeration area,Standard Error, ,2.77080181454301,2.77080181454301,0
+CSTabulate,Twoway Table,Rural enumeration area * Found it difficult or very difficult to get the care needed,Total,% within Rural enumeration area,95% Confidence Interval,Lower,40.1430986812873,48.9681750644481,100
+CSTabulate,Twoway Table,Rural enumeration area * Found it difficult or very difficult to get the care needed,Total,% within Rural enumeration area,95% Confidence Interval,Upper,51.0318249355519,59.8569013187126,100
+CSTabulate,Twoway Table,Rural enumeration area * Found it difficult or very difficult to get the care needed,Total,% within Rural enumeration area,Design Effect, ,1.79546726919597,1.79546726919597, 
+CSTabulate,Twoway Table,Rural enumeration area * Found it difficult or very difficult to get the care needed,Total,% within Rural enumeration area,Unweighted Count, ,263,318,581
+CSTabulate,Twoway Table,Geopolitical zone * Found it difficult or very difficult to get the care needed,North Central,% within Geopolitical zone,Estimate, ,48.3616610828794,51.6383389171206,100
+CSTabulate,Twoway Table,Geopolitical zone * Found it difficult or very difficult to get the care needed,North Central,% within Geopolitical zone,Standard Error, ,8.44257046403376,8.44257046403376,0
+CSTabulate,Twoway Table,Geopolitical zone * Found it difficult or very difficult to get the care needed,North Central,% within Geopolitical zone,95% Confidence Interval,Lower,32.4658025849136,35.4038843111991,100
+CSTabulate,Twoway Table,Geopolitical zone * Found it difficult or very difficult to get the care needed,North Central,% within Geopolitical zone,95% Confidence Interval,Upper,64.5961156888009,67.5341974150864,100
+CSTabulate,Twoway Table,Geopolitical zone * Found it difficult or very difficult to get the care needed,North Central,% within Geopolitical zone,Design Effect, ,3.20217834159833,3.20217834159833, 
+CSTabulate,Twoway Table,Geopolitical zone * Found it difficult or very difficult to get the care needed,North Central,% within Geopolitical zone,Unweighted Count, ,48,60,108
+CSTabulate,Twoway Table,Geopolitical zone * Found it difficult or very difficult to get the care needed,North East,% within Geopolitical zone,Estimate, ,56.2285361338089,43.7714638661911,100
+CSTabulate,Twoway Table,Geopolitical zone * Found it difficult or very difficult to get the care needed,North East,% within Geopolitical zone,Standard Error, ,7.07233730484261,7.07233730484262,0
+CSTabulate,Twoway Table,Geopolitical zone * Found it difficult or very difficult to get the care needed,North East,% within Geopolitical zone,95% Confidence Interval,Lower,42.155153031794,30.6338789157792,100
+CSTabulate,Twoway Table,Geopolitical zone * Found it difficult or very difficult to get the care needed,North East,% within Geopolitical zone,95% Confidence Interval,Upper,69.3661210842208,57.844846968206,100
+CSTabulate,Twoway Table,Geopolitical zone * Found it difficult or very difficult to get the care needed,North East,% within Geopolitical zone,Design Effect, ,1.95251155876277,1.95251155876277, 
+CSTabulate,Twoway Table,Geopolitical zone * Found it difficult or very difficult to get the care needed,North East,% within Geopolitical zone,Unweighted Count, ,55,40,95
+CSTabulate,Twoway Table,Geopolitical zone * Found it difficult or very difficult to get the care needed,North West,% within Geopolitical zone,Estimate, ,44.2105732437464,55.7894267562536,100
+CSTabulate,Twoway Table,Geopolitical zone * Found it difficult or very difficult to get the care needed,North West,% within Geopolitical zone,Standard Error, ,4.35871926207781,4.35871926207781,0
+CSTabulate,Twoway Table,Geopolitical zone * Found it difficult or very difficult to get the care needed,North West,% within Geopolitical zone,95% Confidence Interval,Lower,35.8650666323602,47.1036295831441,100
+CSTabulate,Twoway Table,Geopolitical zone * Found it difficult or very difficult to get the care needed,North West,% within Geopolitical zone,95% Confidence Interval,Upper,52.896370416856,64.1349333676399,100
+CSTabulate,Twoway Table,Geopolitical zone * Found it difficult or very difficult to get the care needed,North West,% within Geopolitical zone,Design Effect, ,1.31535753227092,1.31535753227092, 
+CSTabulate,Twoway Table,Geopolitical zone * Found it difficult or very difficult to get the care needed,North West,% within Geopolitical zone,Unweighted Count, ,74,91,165
+CSTabulate,Twoway Table,Geopolitical zone * Found it difficult or very difficult to get the care needed,South East,% within Geopolitical zone,Estimate, ,43.2503843511429,56.7496156488571,100
+CSTabulate,Twoway Table,Geopolitical zone * Found it difficult or very difficult to get the care needed,South East,% within Geopolitical zone,Standard Error, ,9.36397406770859,9.36397406770859,0
+CSTabulate,Twoway Table,Geopolitical zone * Found it difficult or very difficult to get the care needed,South East,% within Geopolitical zone,95% Confidence Interval,Lower,26.4203159158061,38.2027780930953,100
+CSTabulate,Twoway Table,Geopolitical zone * Found it difficult or very difficult to get the care needed,South East,% within Geopolitical zone,95% Confidence Interval,Upper,61.7972219069046,73.5796840841938,100
+CSTabulate,Twoway Table,Geopolitical zone * Found it difficult or very difficult to get the care needed,South East,% within Geopolitical zone,Design Effect, ,1.52006175133129,1.52006175133129, 
+CSTabulate,Twoway Table,Geopolitical zone * Found it difficult or very difficult to get the care needed,South East,% within Geopolitical zone,Unweighted Count, ,15,29,44
+CSTabulate,Twoway Table,Geopolitical zone * Found it difficult or very difficult to get the care needed,South South,% within Geopolitical zone,Estimate, ,44.710651319197,55.289348680803,100
+CSTabulate,Twoway Table,Geopolitical zone * Found it difficult or very difficult to get the care needed,South South,% within Geopolitical zone,Standard Error, ,7.10095877598305,7.10095877598305,0
+CSTabulate,Twoway Table,Geopolitical zone * Found it difficult or very difficult to get the care needed,South South,% within Geopolitical zone,95% Confidence Interval,Lower,31.4530763727711,41.2343782932913,100
+CSTabulate,Twoway Table,Geopolitical zone * Found it difficult or very difficult to get the care needed,South South,% within Geopolitical zone,95% Confidence Interval,Upper,58.7656217067087,68.5469236272289,100
+CSTabulate,Twoway Table,Geopolitical zone * Found it difficult or very difficult to get the care needed,South South,% within Geopolitical zone,Design Effect, ,1.62067613337498,1.62067613337498, 
+CSTabulate,Twoway Table,Geopolitical zone * Found it difficult or very difficult to get the care needed,South South,% within Geopolitical zone,Unweighted Count, ,39,44,83
+CSTabulate,Twoway Table,Geopolitical zone * Found it difficult or very difficult to get the care needed,South West,% within Geopolitical zone,Estimate, ,33.4252628655268,66.5747371344732,100
+CSTabulate,Twoway Table,Geopolitical zone * Found it difficult or very difficult to get the care needed,South West,% within Geopolitical zone,Standard Error, ,5.82717928244186,5.82717928244186,0
+CSTabulate,Twoway Table,Geopolitical zone * Found it difficult or very difficult to get the care needed,South West,% within Geopolitical zone,95% Confidence Interval,Lower,23.0483963413332,54.3004952238737,100
+CSTabulate,Twoway Table,Geopolitical zone * Found it difficult or very difficult to get the care needed,South West,% within Geopolitical zone,95% Confidence Interval,Upper,45.6995047761264,76.9516036586669,100
+CSTabulate,Twoway Table,Geopolitical zone * Found it difficult or very difficult to get the care needed,South West,% within Geopolitical zone,Design Effect, ,1.20486210565179,1.20486210565179, 
+CSTabulate,Twoway Table,Geopolitical zone * Found it difficult or very difficult to get the care needed,South West,% within Geopolitical zone,Unweighted Count, ,32,54,86
+CSTabulate,Twoway Table,Geopolitical zone * Found it difficult or very difficult to get the care needed,Total,% within Geopolitical zone,Estimate, ,45.5340913616696,54.4659086383304,100
+CSTabulate,Twoway Table,Geopolitical zone * Found it difficult or very difficult to get the care needed,Total,% within Geopolitical zone,Standard Error, ,2.77080181454301,2.77080181454301,0
+CSTabulate,Twoway Table,Geopolitical zone * Found it difficult or very difficult to get the care needed,Total,% within Geopolitical zone,95% Confidence Interval,Lower,40.1430986812873,48.9681750644481,100
+CSTabulate,Twoway Table,Geopolitical zone * Found it difficult or very difficult to get the care needed,Total,% within Geopolitical zone,95% Confidence Interval,Upper,51.0318249355519,59.8569013187126,100
+CSTabulate,Twoway Table,Geopolitical zone * Found it difficult or very difficult to get the care needed,Total,% within Geopolitical zone,Design Effect, ,1.79546726919597,1.79546726919597, 
+CSTabulate,Twoway Table,Geopolitical zone * Found it difficult or very difficult to get the care needed,Total,% within Geopolitical zone,Unweighted Count, ,263,318,581

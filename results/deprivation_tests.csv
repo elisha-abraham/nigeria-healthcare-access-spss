@@ -1,0 +1,7 @@
+﻿Command_,Subtype_,Label_,Var1,df1,df2,AdjustedWaldF,Sig
+CSGLM,TestsOfModelEffects,Tests of Model Effects,(Corrected Model),4.56658184754768,858.517387338964,4.81805961308067,.000391390325227836
+CSGLM,TestsOfModelEffects,Tests of Model Effects,(Intercept),1,188,2648.98915047011,0
+CSGLM,TestsOfModelEffects,Tests of Model Effects,zone,4.56658184754768,858.517387338964,4.81805961308067,.000391390325227836
+CSGLM,TestsOfModelEffects,Tests of Model Effects,(Corrected Model),1,188,7.79749011365524,.00577277287510625
+CSGLM,TestsOfModelEffects,Tests of Model Effects,(Intercept),1,188,3401.65901853223,0
+CSGLM,TestsOfModelEffects,Tests of Model Effects,rural,1,188,7.79749011365524,.00577277287510625

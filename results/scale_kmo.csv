@@ -1,0 +1,5 @@
+﻿Command_,Subtype_,Label_,Var1,Var2,Var3
+Factor Analysis,KMO and Bartlett Test,KMO and Bartlett's Test,Kaiser-Meyer-Olkin Measure of Sampling Adequacy., ,.718553293807331
+Factor Analysis,KMO and Bartlett Test,KMO and Bartlett's Test,Bartlett's Test of Sphericity,Approx. Chi-Square,1025.76800611026
+Factor Analysis,KMO and Bartlett Test,KMO and Bartlett's Test,Bartlett's Test of Sphericity,df,6
+Factor Analysis,KMO and Bartlett Test,KMO and Bartlett's Test,Bartlett's Test of Sphericity,Sig.,2.38786331060758E-218

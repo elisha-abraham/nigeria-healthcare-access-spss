@@ -1,0 +1,22 @@
+﻿Command_,Subtype_,Label_,Var1,Var2,Estimate,StandardError,Lower,Upper,DesignEffect,UnweightedCount
+CSTabulate,Oneway Table,Found it difficult or very difficult to get the care needed,% of Total,No,45.5340913616696,2.77080181454301,40.1430986812873,51.0318249355519,1.79546726919597,263
+CSTabulate,Oneway Table,Found it difficult or very difficult to get the care needed,% of Total,Yes,54.4659086383304,2.77080181454301,48.9681750644481,59.8569013187126,1.79546726919597,318
+CSTabulate,Oneway Table,Found it difficult or very difficult to get the care needed,% of Total,Total,100,0,100,100, ,581
+CSTabulate,Oneway Table,"Paid a bribe, gave a gift or did a favour to get care, at least once",% of Total,No,74.0863460980852,2.20149320617393,69.5138948085913,78.1881865353858,1.46166023713278,426
+CSTabulate,Oneway Table,"Paid a bribe, gave a gift or did a favour to get care, at least once",% of Total,Yes,25.9136539019148,2.20149320617393,21.8118134646142,30.4861051914087,1.46166023713278,154
+CSTabulate,Oneway Table,"Paid a bribe, gave a gift or did a favour to get care, at least once",% of Total,Total,100,0,100,100, ,580
+CSTabulate,Oneway Table,"Lack of medicines or supplies, a few times or often",% of Total,No,45.8275397278929,2.28147501442961,41.3728481115084,50.349949426764,1.21605810080582,258
+CSTabulate,Oneway Table,"Lack of medicines or supplies, a few times or often",% of Total,Yes,54.1724602721071,2.28147501442961,49.650050573236,58.6271518884916,1.21605810080582,323
+CSTabulate,Oneway Table,"Lack of medicines or supplies, a few times or often",% of Total,Total,100,0,100,100, ,581
+CSTabulate,Oneway Table,"Absence of doctors or other staff, a few times or often",% of Total,No,55.8066442573448,2.54166679933215,50.750508843267,60.745200332781,1.52184518885432,328
+CSTabulate,Oneway Table,"Absence of doctors or other staff, a few times or often",% of Total,Yes,44.1933557426553,2.54166679933215,39.254799667219,49.2494911567331,1.52184518885432,254
+CSTabulate,Oneway Table,"Absence of doctors or other staff, a few times or often",% of Total,Total,100,0,100,100, ,582
+CSTabulate,Oneway Table,"Long waiting time, a few times or often",% of Total,No,43.2420920959728,2.55061491616644,38.2964157922541,48.3262374897464,1.54004299722566,248
+CSTabulate,Oneway Table,"Long waiting time, a few times or often",% of Total,Yes,56.7579079040273,2.55061491616644,51.6737625102536,61.703584207746,1.54004299722566,334
+CSTabulate,Oneway Table,"Long waiting time, a few times or often",% of Total,Total,100,0,100,100, ,582
+CSTabulate,Oneway Table,"Poor condition of facilities, a few times or often",% of Total,No,44.5755547089611,2.56185651737345,39.5945017602491,49.6679946013063,1.5407759355979,264
+CSTabulate,Oneway Table,"Poor condition of facilities, a few times or often",% of Total,Yes,55.4244452910389,2.56185651737345,50.3320053986938,60.4054982397509,1.5407759355979,317
+CSTabulate,Oneway Table,"Poor condition of facilities, a few times or often",% of Total,Total,100,0,100,100, ,581
+CSTabulate,Oneway Table,"High cost prevented care or medicines, a few times or often",% of Total,No,43.4844143564835,2.66766806007072,38.3138861036387,48.8006980101558,1.66795451660612,247
+CSTabulate,Oneway Table,"High cost prevented care or medicines, a few times or often",% of Total,Yes,56.5155856435166,2.66766806007072,51.1993019898443,61.6861138963613,1.66795451660612,330
+CSTabulate,Oneway Table,"High cost prevented care or medicines, a few times or often",% of Total,Total,100,0,100,100, ,577

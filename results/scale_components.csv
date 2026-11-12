@@ -1,0 +1,5 @@
+﻿Command_,Subtype_,Label_,Var1,InitialEigenvalues_Total,InitialEigenvalues_ofVariance,InitialEigenvalues_Cumulative,ExtractionSumsofSquaredLoadings_Total,ExtractionSumsofSquaredLoadings_ofVariance,ExtractionSumsofSquaredLoadings_Cumulative
+Factor Analysis,Total Variance Explained,Total Variance Explained,1,2.08642392940356,52.1605982350889,52.1605982350889,2.08642392940356,52.1605982350889,52.1605982350889
+Factor Analysis,Total Variance Explained,Total Variance Explained,2,.767006277380413,19.1751569345103,71.3357551695993, , , 
+Factor Analysis,Total Variance Explained,Total Variance Explained,3,.608917942661318,15.222948566533,86.5587037361322, , , 
+Factor Analysis,Total Variance Explained,Total Variance Explained,4,.537651850554714,13.4412962638678,100, , , 

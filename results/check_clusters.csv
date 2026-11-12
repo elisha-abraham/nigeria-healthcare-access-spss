@@ -1,0 +1,8 @@
+﻿Command_,Subtype_,Label_,Var1,Var2,Frequency,Percent,ValidPercent,CumulativePercent
+Frequencies,Frequencies,Respondents in the cluster,Valid,8.00,200,100,100,100
+Frequencies,Frequencies,Interviewers who worked in the cluster,Valid,4,199,99.5,99.5,99.5
+Frequencies,Frequencies,Interviewers who worked in the cluster,Valid,5,1,.5,.5,100
+Frequencies,Frequencies,Interviewers who worked in the cluster,Valid,Total,200,100,100, 
+Frequencies,Frequencies,Men in the cluster,Valid,4.00,196,98,98,98
+Frequencies,Frequencies,Men in the cluster,Valid,5.00,4,2,2,100
+Frequencies,Frequencies,Men in the cluster,Valid,Total,200,100,100, 

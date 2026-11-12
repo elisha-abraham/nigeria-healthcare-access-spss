@@ -1,0 +1,10 @@
+﻿Command_,Subtype_,Label_,Var1,df1,df2,AdjustedWaldF,Sig
+CSLogistic,TestsOfModelEffects,Tests of Model Effects,(Corrected Model),11.7054255641912,2200.62000606795,9.08174890327702,1.11022302462516E-16
+CSLogistic,TestsOfModelEffects,Tests of Model Effects,(Intercept),1,188,2.35272313586253,.126745494978434
+CSLogistic,TestsOfModelEffects,Tests of Model Effects,zone,4.85999109114148,913.678325134598,8.83616630452556,4.906603612298E-08
+CSLogistic,TestsOfModelEffects,Tests of Model Effects,education,2.89473194033996,544.209604783912,3.44528628377208,.0177794805541843
+CSLogistic,TestsOfModelEffects,Tests of Model Effects,rural,1,188,5.01022131922577,.0263711343886655
+CSLogistic,TestsOfModelEffects,Tests of Model Effects,no_clinic,1,188,14.3934560634206,.00019985367433295
+CSLogistic,TestsOfModelEffects,Tests of Model Effects,age_decades,1,188,2.86740440870071,.092046796260203
+CSLogistic,TestsOfModelEffects,Tests of Model Effects,female,1,188,.00314197789296751,.955358834667003
+CSLogistic,TestsOfModelEffects,Tests of Model Effects,insured,1,188,9.75179308721098,.00207480830190998

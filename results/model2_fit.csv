@@ -1,0 +1,4 @@
+﻿Command_,Subtype_,Label_,Var1,Var2
+CSLogistic,PseudoRSquares,Pseudo R Squares,Cox and Snell,.353940216474799
+CSLogistic,PseudoRSquares,Pseudo R Squares,Nagelkerke,.475781131434979
+CSLogistic,PseudoRSquares,Pseudo R Squares,McFadden,.320694358504982
