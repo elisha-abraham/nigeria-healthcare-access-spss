@@ -1,0 +1,14 @@
+# the survey file is fetched by scripts/01_download_data.py; Afrobarometer data are not redistributed here
+data/raw/*.sav
+
+# files SPSS builds on every run
+data/*.sav
+data/*.csaplan
+results/*.sav
+
+__pycache__/
+*.pyc
+
+# never commit credentials
+*.cnf
+.env

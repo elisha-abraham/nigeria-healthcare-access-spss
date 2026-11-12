@@ -1,0 +1,3 @@
+# GitHub reads .sps as Scheme. These files are SPSS syntax: show them as plain text
+# and leave them out of the language bar.
+*.sps linguist-language=Text

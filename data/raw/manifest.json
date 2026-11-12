@@ -1,0 +1,10 @@
+{
+  "retrieved_utc": "2026-11-12T05:43:10+00:00",
+  "files": {
+    "nigeria_r10_2024.sav": {
+      "url": "https://www.afrobarometer.org/wp-content/uploads/2025/11/NIG_R10.Data_18Nov24.wtd_.final_.release_updated.13Feb25.sav",
+      "bytes": 1676284,
+      "sha256": "876545eeb59ace510b69745471ac5bf40fb0a854b18d66c4b5d2ee3e0a5e2e78"
+    }
+  }
+}
